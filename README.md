@@ -15,8 +15,19 @@ _Tener un browser(Chrome)_
 - DESCARGO ARCHIVOS: Download ZIP  
 - Luego hago click en el html (abrir con chrome)  
 -LISTO , YA PUEDES EMPEZAR A grabar tu audio en texto
-(Luego puedes copiarlo y llevarlo a otro programa para editar)
+(Luego puedes copiarlo y llevarlo a otro programa para editar)  
+-Adicionalmente puedes , reproducir tu texto.
 ```
+
+
+![Graba audio](https://raw.githubusercontent.com/alexandrajimenezc/reconocimiento_de_voz/master/graba_audio.png)  
+
+
+![Tocando botón grabar](https://raw.githubusercontent.com/alexandrajimenezc/reconocimiento_de_voz/master/graba_audio1.png)  
+
+
+![Stop](https://raw.githubusercontent.com/alexandrajimenezc/reconocimiento_de_voz/master/graba_audio2.png)  
+
 
 
 
